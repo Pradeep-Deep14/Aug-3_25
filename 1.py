@@ -9,4 +9,4 @@ def outer_func(y):
 results = outer_func(3)
 print(results()) 
 
- # This will print 5
+ #Output : 6
